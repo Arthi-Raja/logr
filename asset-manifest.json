@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-login-app/static/css/main.f4b0565c.css",
-    "main.js": "/react-login-app/static/js/main.b569795e.js",
-    "static/js/453.cc607e55.chunk.js": "/react-login-app/static/js/453.cc607e55.chunk.js",
-    "static/media/a.jpeg": "/react-login-app/static/media/a.fdcc30a0a8bbfb14985c.jpeg",
-    "index.html": "/react-login-app/index.html",
-    "main.f4b0565c.css.map": "/react-login-app/static/css/main.f4b0565c.css.map",
-    "main.b569795e.js.map": "/react-login-app/static/js/main.b569795e.js.map",
-    "453.cc607e55.chunk.js.map": "/react-login-app/static/js/453.cc607e55.chunk.js.map"
+    "main.css": "/logr/static/css/main.e0af1780.css",
+    "main.js": "/logr/static/js/main.24436afe.js",
+    "static/js/453.cc607e55.chunk.js": "/logr/static/js/453.cc607e55.chunk.js",
+    "static/media/a.jpeg": "/logr/static/media/a.fdcc30a0a8bbfb14985c.jpeg",
+    "index.html": "/logr/index.html",
+    "main.e0af1780.css.map": "/logr/static/css/main.e0af1780.css.map",
+    "main.24436afe.js.map": "/logr/static/js/main.24436afe.js.map",
+    "453.cc607e55.chunk.js.map": "/logr/static/js/453.cc607e55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4b0565c.css",
-    "static/js/main.b569795e.js"
+    "static/css/main.e0af1780.css",
+    "static/js/main.24436afe.js"
   ]
 }
